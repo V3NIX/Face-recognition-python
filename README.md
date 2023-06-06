@@ -3,7 +3,7 @@ This project involves the development of a face recognition system using the Sup
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/V3NIX/Face-recognition-python/assets/117733151/508668e7-df8d-43ee-93a4-778d0a4049c4)
 ![image](https://github.com/V3NIX/Face-recognition-python/assets/117733151/174274aa-c3d3-4b1b-9f08-af420b5f2d75)
-
+ 
 ---FaceApp---
 *Overview:
 This app is a face recognition system that can operate in two modes: real-time or image-based. It uses machine learning algorithms to recognize faces from a dataset of known individuals, stored in the "persons" folder. The app is launched by running the GUI.py file, which opens a graphical user interface that allows the user to select the mode and operate the app.
